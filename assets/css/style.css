@@ -80,10 +80,6 @@ nav ul li a:hover::after{
     color: #ff004f;
 }
 
-p{
-    font-size: 18px;
-}
-
 /* ------------------about---------------------------- */
 #about{
     padding: 80px 0;
@@ -329,9 +325,6 @@ nav .fa-solid{
     }
     .copyright{
         font-size: 14px;
-    }
-    p{
-        font-size: 12px;
     }
 }
 #msg{
